@@ -1,0 +1,21 @@
+{
+  "full_name": "Yashpal Singh",
+  "name": "Deshraj",
+  "current_role": "Project Lead",
+  "location": "Noida",
+  "email": "yashsinghq8017@gmail.com",
+  "linkedin": "www.linkedin.com/in/yashpalsingh07",
+  "specialties": [
+    "AIOps",
+    "FINOps",
+    "DevOps"
+  ],
+  "years_experience": 16,
+  "education": [
+    {
+      "degree": "Master of Engineer",
+      "institution": "Delhi University",
+      "year": "2010"
+    }
+  ]
+}
